@@ -1,6 +1,6 @@
 # gophish-templates
 Templates for an open-source Phishing Toolkit
-Some very basic configurations and templates to provide clean layouts usable in [GoPhish](https://github.com/gophish/gophish), an open-source phishing toolkit.
+Some very basic configurations and templates to provide clean layouts usable in [GoPhish](https://github.com/gophish/gophish), an open-source phishing toolkit. These layouts provided will also work with any other phising service as well, though they have only been tested in GoPhish.
 
 ![GoPhish](https://i.imgur.com/7Jklgjv.png)
 
@@ -14,6 +14,7 @@ Installing the files is easy. Download the GoPhish client and log in at `https:/
 
 A very basic Instagram mail.  
 Subject: `someone tried to log into your instagram account`
+Sender:  `security@mail.instagram.com`
 
 ![instagrammail](https://i.imgur.com/ILUT94f.png)
 

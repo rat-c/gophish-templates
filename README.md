@@ -8,9 +8,20 @@ Some very basic configurations and templates to provide clean layouts usable in 
 Installing the files is easy. Download the GoPhish client and log in at `https://127.0.0.1:3333/` with the standard credentials visible in the command line. There, the various templates and landing pages can be configured with my html configurations. 
  
 ## Features
+* Instagram Landing Page
 * Instagram Mail Template
 
-#### Instagram Phishing Mail
+#### Instagram Landing Page
+
+A very basic Instagram landing page which attempts to have people enter user details.
+
+Link: `https://www.instagram.com/accounts/login/`  
+Title: `Login • Instagram`
+
+![instagrampage](https://i.imgur.com/eR5GJoo.png)
+
+
+#### Instagram Mail Template
 
 A very basic Instagram mail which attempts to have people click on a link to secure their account.
 

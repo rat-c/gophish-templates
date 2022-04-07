@@ -16,7 +16,7 @@ Installing the files is easy. Download the GoPhish client and log in at `https:/
 A very basic Dropbox mail.  
 Subject: `someone shared a document via dropbox`
 
-![dropboxmail](https://i.imgur.com/tyRxjBx.png)
+![dropboxmail](https://i.imgur.com/fFznupa.png)
 
 #### Instagram Phishing Mail
 
@@ -26,4 +26,4 @@ Subject: `someone tried to log into your instagram account`
 ![instagrammail](https://i.imgur.com/ILUT94f.png)
 
 ## Disclaimer
-The files in this repository were created and modified by me, and retired by and [FreeZeroDays](https://github.com/FreeZeroDays) for my own personal use and come with no guarantee to work for you. I provide these files "as-is" and offer no support whatsoever to get them working. 
+The files in this repository were created and modified by me, and retired by [FreeZeroDays](https://github.com/FreeZeroDays) and [criggs666](https://github.com/criggs626/) for my own personal use and come with no guarantee to work for you. I provide these files "as-is" and offer no support whatsoever to get them working. 

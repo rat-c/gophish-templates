@@ -13,7 +13,7 @@ Installing the files is easy. Download the GoPhish client and log in at `https:/
 #### Instagram Phishing Mail
 
 A very basic Instagram mail.  
-Subject: `someone tried to log into your instagram account`  
+Subject: `New Instagram Login`  
 Sender: `security@mail.instagram.com`
 
 ![instagrammail](https://i.imgur.com/ILUT94f.png)

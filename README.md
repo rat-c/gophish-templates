@@ -8,12 +8,20 @@ Some very basic configurations and templates to provide clean layouts usable in 
 Installing the files is easy. Download the GoPhish client and log in at `https://127.0.0.1:3333/` with the standard credentials visible in the command line. There, the various templates and landing pages can be configured with my html configurations. 
  
 ## Features
+* Dropbox Mail Template
 * Instagram Mail Template
 
-#### Instagram Mail Template
+#### Dropbox Phishing Mail
 
-A very basic Instagram landing page.  
-Redirect to: `https://www.instagram.com/accounts/login/`
+A very basic Dropbox mail.  
+Subject: `someone shared a document via dropbox`
+
+![dropboxmail](https://i.imgur.com/tyRxjBx.png)
+
+#### Instagram Phishing Mail
+
+A very basic Instagram mail.  
+Subject: `someone tried to log into your instagram account`
 
 ![instagrammail](https://i.imgur.com/ILUT94f.png)
 

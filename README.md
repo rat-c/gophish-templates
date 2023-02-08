@@ -30,12 +30,13 @@ Sender: `security@mail.instagram.com`
 
 ![instagrammail](https://i.imgur.com/ILUT94f.png)
 
+#### Google Chrome OS Mail Template
+
 A very basic Google mail, which notifies the user about a login.  
 
 Subject: `New Sign In`  
 Sender: `no-reply@accounts.google.com`  
 
-#### Google Chrome OS Mail Template
 ![chromemail](https://i.imgur.com/wx0g4ZC.png)
 
 ## Disclaimer
